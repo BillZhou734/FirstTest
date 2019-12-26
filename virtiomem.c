@@ -4,6 +4,9 @@
 #include <stdlib.h>
 #include <string.h>
 
+
+
+
 //#define BASEPORT 0xc120   // 0x378 /* lp1 */
 
 
